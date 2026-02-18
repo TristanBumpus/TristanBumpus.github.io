@@ -1,0 +1,135 @@
+{
+  "Feleniouse": {
+    "contributor": [
+      {
+        "name": "Art by Pepper Studio",
+        "link": "https://laroucheedric.itch.io/"
+      },
+      {
+        "name": "Sound and Music by HooperGlooper",
+        "link": "https://hoopergooper.itch.io/"
+      }
+    ],
+    "desc": "Explore a land full of merchants to plunder and marines to run from. All to destroy the King that broke his promise.",
+    "game": {
+      "link": "https://itch.io/embed-upload/16265503?color=0F264A"
+    },
+    "bottom_link": {
+      "main_link": "https://itch.io/embed/4232771?border_width=2&amp;bg_color=234578&amp;fg_color=ffffff&amp;link_color=f21313&amp;border_color=3a5175",
+      "link": "https://biorain-games.itch.io/felonious",
+      "name": "Feleniouse by BioRain Games"
+    },
+    "devlog": "This was a game made in 48 hours for the ValleyField Intercollegial game Jam 2026. The theme was vessel and the team decided to make a parite looting game. In this game I made cutscenes and changeable keybindings for the first time. Overall we where able to keep the game in a small enough scoop and the development went smoothly."
+  },
+  "Scrap Planet": {
+    "contributor": [
+      {
+        "name": "Assets by HooperGlooper",
+        "link": "https://hoopergooper.itch.io/"
+      }
+    ],
+    "desc": "A roguelike about exploring world of scrap. Using a magnet to deal with hords of enemies in the long twisted hallways of a lab.",
+    "game": {
+      "link": "https://itch.io/embed-upload/12379542?color=2A3056"
+    },
+    "bottom_link": {
+      "main_link": "https://itch.io/embed/3211168?bg_color=191F3E&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=52587e",
+      "link": "https://biorain-games.itch.io/scrape",
+      "name": "Scrap Planet by BioRain Games, HooperGooper"
+    },
+    "devlog": " Scrap Planet was made in about 72 hours for the melon jam 2024. It got 86 place overall out of 231 entries, but it got 25 for innovation. In this game I tried to make some custome physics for the magnets and the object interactions, I also did a loot tables for the first time and a unique camera setup."
+  },
+  "MechaWar": {
+    "contributor": [
+      {
+        "name": "Art by Pepper Studio",
+        "link": "https://laroucheedric.itch.io/"
+      }
+    ],
+    "desc": "Your'e going to war on an alien planet, but the aliens are fighting back. Destroy the city and survive. Collect their parts to fix your self and lets see how long you can survive.",
+    "game": {
+      "link": "https://itch.io/embed-upload/16076181?color=00818a"
+    },
+    "bottom_link": {
+      "main_link": "https://itch.io/embed/4174507?bg_color=000000&amp;fg_color=00f0ff&amp;link_color=fa5c5c&amp;border_color=20a1aa",
+      "link": "https://biorain-games.itch.io/mechawar",
+      "name": "MechaWar by BioRain Games, PepperStudio"
+    },
+    "devlog": "This was a game made in about a week as a personnal jam between me and a friend. The game was in preperation for a competition coming up in ValleyField. The game was made using Godot and all assets were made in Maya and Asprite. With every game I try to learn something new and with this one I published my first 3D game, I worked on optimizations and 3D pathfinding."
+  },
+  "A Bug's Garden": {
+    "contributor": [],
+    "desc": "This is a city builder that uses plants instead of buildings. Bugs will move in, and once it's big enough the farmer will come to collect some bugs, but his a bad farmer and burns the farm instead of smoking it.",
+    "game": {
+      "link": "https://itch.io/embed-upload/11509149?color=5ce643"
+    },
+    "bottom_link": {
+      "main_link": "https://itch.io/embed/2127291?bg_color=258132&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=39c320",
+      "link": "https://biorain-games.itch.io/plantopia",
+      "name": "A Bug's Garden by BioRain Games"
+    },
+    "devlog": ""
+  },
+  "A Charming Darkness": {
+    "contributor": [
+      {
+        "name": "Assets by Sacha",
+        "link": "https://wsacha.itch.io/"
+      }
+    ],
+    "desc": "Parcour into a world of darkness where you are the last light. Find the charm to help you get through this world, as sometimes a little charm is the only thing that can help get you out of a dark place, so now, it's you against the world.",
+    "game": {
+      "link": "https://itch.io/embed-upload/11509290?color=9c0000"
+    },
+    "bottom_link": {
+      "main_link": "https://itch.io/embed/2442569?bg_color=000000&amp;fg_color=ffffff&amp;link_color=860c0c&amp;border_color=c52929",
+      "link": "https://biorain-games.itch.io/a-charming-darkness",
+      "name": "A Charming Darkness by BioRain Games, Sacha"
+    },
+    "devlog": ""
+  },
+  "Cool Space Name": {
+    "contributor": [
+      {
+        "name": "Assets by HooperGlooper",
+        "link": "https://hoopergooper.itch.io/"
+      }
+    ],
+    "desc": "In a world far far away in the futur you get stuck on the moon. Let's see what heppends next. Shall we...",
+    "game": {
+      "link": ""
+    },
+    "bottom_link": {
+      "main_link": "https://itch.io/embed/2843212?bg_color=000000&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=333333",
+      "link": "",
+      "name": ""
+    },
+    "devlog": ""
+  },
+  "God can't help you now": {
+    "contributor": [],
+    "desc": "A scary game where you are stuck in a lab and must escape.",
+    "game": {
+      "link": "https://itch.io/embed-upload/11509471?color=1b1b1b"
+    },
+    "bottom_link": {
+      "main_link": "https://itch.io/embed/2115010?bg_color=141414&amp;fg_color=ffffff&amp;link_color=830000&amp;border_color=484848",
+      "link": "https://biorain-games.itch.io/the-lab",
+      "name": "God can't help you now by BioRain Games"
+    },
+    "devlog": ""
+  },
+  "Template to copy": {
+    "contributor": [],
+    "desc": "",
+    "game": {
+      "link": ""
+    },
+    "bottom_link": {
+      "main_link": "",
+      "link": "",
+      "name": ""
+    },
+    "devlog": ""
+  }
+}
