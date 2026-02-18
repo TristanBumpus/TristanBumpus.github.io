@@ -1,24 +1,24 @@
 [
   {
     "name": "Feleniouse",
-    "img": "../public/assets/img/main/FEL.png"
+    "img": "/assets/img/main/FEL.png"
   },
-  { "name": "Scrap Planet", "img": "../public/assets/img/main/SP_cover.png" },
+  { "name": "Scrap Planet", "img": "/assets/img/main/SP_cover.png" },
   {
     "name": "MechaWar",
-    "img": "../public/assets/img/main/MW.png"
+    "img": "/assets/img/main/MW.png"
   },
-  { "name": "A Bug's Garden", "img": "../public/assets/img/main/ABG.png" },
+  { "name": "A Bug's Garden", "img": "/assets/img/main/ABG.png" },
   {
     "name": "A Charming Darkness",
-    "img": "../public/assets/img/main/ACDCoverImage.png"
+    "img": "/assets/img/main/ACDCoverImage.png"
   },
   {
     "name": "Cool Space Name",
-    "img": "../public/assets/img/main/CSNcover.png"
+    "img": "/assets/img/main/CSNcover.png"
   },
   {
     "name": "God can't help you now",
-    "img": "../public/assets/img/main/GCHYN.png"
+    "img": "/assets/img/main/GCHYN.png"
   }
 ]
