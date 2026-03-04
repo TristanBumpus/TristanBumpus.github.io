@@ -18,7 +18,7 @@ export default function main_game_page() {
   });
   return (
     <main>
-      <title>Feleniouse</title>
+      <title>{name}</title>
       <Title name={name} desc={game_data.desc}></Title>
       <div className=" floating_backround">
         {game_data.game.link != "" && <Game link={game_data.game.link}></Game>}
