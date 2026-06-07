@@ -1,5 +1,6 @@
 {
   "Feloniouse": {
+    "img": "/assets/img/main/FEL.png",
     "contributor": [
       {
         "name": "Art by Pepper Studio",
@@ -22,6 +23,7 @@
     "devlog": "This was a game made in 48 hours for the ValleyField Intercollegial game Jam 2026. The theme was vessel and the team decided to make a parite looting game. In this game I made cutscenes and changeable keybindings for the first time. Overall we where able to keep the game in a small enough scoop and the development went smoothly."
   },
   "Scrap Planet": {
+    "img": "/assets/img/main/SP_cover.png",
     "contributor": [
       {
         "name": "Assets by HooperGlooper",
@@ -40,6 +42,7 @@
     "devlog": " Scrap Planet was made in about 72 hours for the melon jam 2024. It got 86 place overall out of 231 entries, but it got 25 for innovation. In this game I tried to make some custome physics for the magnets and the object interactions, I also did a loot tables for the first time and a unique camera setup."
   },
   "MechaWar": {
+    "img": "/assets/img/main/MW.png",
     "contributor": [
       {
         "name": "Art by Pepper Studio",
@@ -58,6 +61,7 @@
     "devlog": "This was a game made in about a week as a personnal jam between me and a friend. The game was in preperation for a competition coming up in ValleyField. The game was made using Godot and all assets were made in Maya and Asprite. With every game I try to learn something new and with this one I published my first 3D game, I worked on optimizations and 3D pathfinding."
   },
   "A Bug's Garden": {
+    "img": "/assets/img/main/ABG.png",
     "contributor": [],
     "desc": "This is a city builder that uses plants instead of buildings. Bugs will move in, and once it's big enough the farmer will come to collect some bugs, but his a bad farmer and burns the farm instead of smoking it.",
     "game": {
@@ -71,6 +75,7 @@
     "devlog": ""
   },
   "A Charming Darkness": {
+    "img": "/assets/img/main/ACDCoverImage.png",
     "contributor": [
       {
         "name": "Assets by Sacha",
@@ -89,6 +94,7 @@
     "devlog": ""
   },
   "Cool Space Name": {
+    "img": "/assets/img/main/CSNcover.png",
     "contributor": [
       {
         "name": "Assets by HooperGlooper",
@@ -107,6 +113,7 @@
     "devlog": ""
   },
   "God can't help you now": {
+    "img": "/assets/img/main/GCHYN.png",
     "contributor": [],
     "desc": "A scary game where you are stuck in a lab and must escape.",
     "game": {
@@ -116,19 +123,6 @@
       "main_link": "https://itch.io/embed/2115010?bg_color=141414&amp;fg_color=ffffff&amp;link_color=830000&amp;border_color=484848",
       "link": "https://biorain-games.itch.io/the-lab",
       "name": "God can't help you now by BioRain Games"
-    },
-    "devlog": ""
-  },
-  "Template to copy": {
-    "contributor": [],
-    "desc": "",
-    "game": {
-      "link": ""
-    },
-    "bottom_link": {
-      "main_link": "",
-      "link": "",
-      "name": ""
     },
     "devlog": ""
   }

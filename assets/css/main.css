@@ -20,6 +20,7 @@
 
 * {
   font-family: url(../Fonts/Helvetica.ttf);
+  box-sizing: border-box;
 }
 
 body {
@@ -116,14 +117,9 @@ footer a:hover {
   display: inline;
   border-radius: 5vw;
   width: 28vw;
-  margin-left: var(--margin_main_w);
+  /* margin-left: var(--margin_main_w); */
   float: left;
   vertical-align: bottom;
-}
-
-.game_button img:hover {
-  transform: translateY(-5vh) scale(1.1);
-  box-shadow: black 0 1vw 2vw;
 }
 
 .top_bar img {
@@ -140,9 +136,8 @@ footer a:hover {
   transform: scale(1.1);
 }
 
-.game_button {
-  display: inline-grid;
-  margin-top: 8vh;
+.card:hover {
+  transform: rotateY(180deg);
 }
 
 .top_bar {
@@ -215,6 +210,14 @@ footer a:hover {
 .game_list h2 {
   display: block;
   text-align: center;
+}
+
+.game_list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+  gap: 1vh 0;
 }
 
 .main_title {

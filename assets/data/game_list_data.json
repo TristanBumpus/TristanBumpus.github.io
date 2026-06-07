@@ -1,24 +1,16 @@
-[
-  {
-    "name": "Feloniouse",
-    "img": "/assets/img/main/FEL.png"
-  },
-  { "name": "Scrap Planet", "img": "/assets/img/main/SP_cover.png" },
-  {
-    "name": "MechaWar",
-    "img": "/assets/img/main/MW.png"
-  },
-  { "name": "A Bug's Garden", "img": "/assets/img/main/ABG.png" },
-  {
-    "name": "A Charming Darkness",
-    "img": "/assets/img/main/ACDCoverImage.png"
-  },
-  {
-    "name": "Cool Space Name",
-    "img": "/assets/img/main/CSNcover.png"
-  },
-  {
-    "name": "God can't help you now",
-    "img": "/assets/img/main/GCHYN.png"
+{
+  "Template to copy": {
+    "img": "",
+    "contributor": [],
+    "desc": "",
+    "game": {
+      "link": ""
+    },
+    "bottom_link": {
+      "main_link": "",
+      "link": "",
+      "name": ""
+    },
+    "devlog": ""
   }
-]
+}
